@@ -1,5 +1,5 @@
-/*
-Search:
+
+//Search in class CFuncShoot:
 
 				case SKILL_NOEJEON:
 				case SKILL_GEOMPUNG:
@@ -10,9 +10,6 @@ Search:
 					{
 						m_me->OnMove(true);
 						pkVictim->OnMove();
-
-in class CFuncShoot
-*/
 
 //Add before:
 
