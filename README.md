@@ -7,3 +7,5 @@ Remember that do you need add in INDEX of Metin2Client
 
 metin2_patch_balance
 
+
+And in your skill_proto from DB remove SELFONLY oh the skill.
